@@ -1,3 +1,2 @@
-ln -s /bin/ls ___ls__
+ln -s /bin/ls __ls__
 lrwxrwxrwx 1 root root 7 __ls__
-
