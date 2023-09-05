@@ -1,0 +1,2 @@
+#!/in/bash
+ech$((`echo $PATH | grep -o ":/" | wC -1 + 1)
